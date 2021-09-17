@@ -35,4 +35,4 @@ This is a timed coding quiz with multiple-choice questions. This app is written 
 * Bootstrap
 
 ## Demo
-![Code Quiz Demo](images\code quiz demo.gif)
+![Code Quiz Demo](\images\quizdemo.png)
